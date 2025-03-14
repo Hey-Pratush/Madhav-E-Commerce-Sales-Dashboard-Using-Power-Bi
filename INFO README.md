@@ -1,4 +1,4 @@
-# Madhav-E-Commerce-Sales-Power-Bi Dashboard
+# Madhav-E-Commerce-Sales-Power-Bi-Dashboard
 
 Analysed E-commerce sales data created on interactive dashboard using Power-Bi.
 
